@@ -74,9 +74,11 @@ By downloading and or installing the Software and associated files on your compu
 
 #### A.1 Description of the Software:
 
-The Software constitutes any software distributed as part of or pertaining to the MATLAB code as made available online at https://github.com/AlexanderBertrandLab/si-gcca.
+The Software constitutes any software distributed as part of or pertaining to the MATLAB code as made available online at https://github.com/AlexanderBertrandLab/linear-stimulus-reconstruction-AAD-AV-GC-AAD-dataset.
 
 
 #### A.2 References:
 
-[1] S. Geirnaert, Y. Yao, T. Francart and A. Bertrand, "Stimulus-Informed Generalized Canonical Correlation Analysis for Group Analysis of Neural Responses," arXiv, 2024, [https://doi.org/10.48550/arXiv.2210.13297](https://doi.org/10.48550/arXiv.2401.17841).
+[1] S. Geirnaert, I. Rotaru, T. Francart and A. Bertrand, "Linear stimulus reconstruction works on the KU Leuven audiovisual, gaze-controlled auditory attention decoding dataset," arXiv, 2024, []().
+
+[2] I. Rotaru, S. Geirnaert, T. Francart and A. Bertrand, "Audiovisual, Gaze-controlled Auditory Attention Decoding Dataset KU Leuven (AV-GC-AAD)", Zenodo, [doi.org/10.5281/zenodo.11058711](https://zenodo.org/records/11058711), 2024. [dataset]
