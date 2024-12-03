@@ -32,6 +32,6 @@ Leuven.AI - KU Leuven institute for AI
 
  ## References
  
-[1] S. Geirnaert, I. Rotaru, T. Francart and A. Bertrand, "Linear stimulus reconstruction works on the KU Leuven audiovisual, gaze-controlled auditory attention decoding dataset," arXiv, 2024, []().
+[1] S. Geirnaert, I. Rotaru, T. Francart and A. Bertrand, "Linear stimulus reconstruction works on the KU Leuven audiovisual, gaze-controlled auditory attention decoding dataset," arXiv, 2024, [doi.org/10.48550/arXiv.2412.01401](https://arxiv.org/abs/2412.01401).
 
-[2] I. Rotaru, S. Geirnaert, T. Francart and A. Bertrand, "Audiovisual, Gaze-controlled Auditory Attention Decoding Dataset KU Leuven (AV-GC-AAD)", Zenodo, [doi.org/10.5281/zenodo.11058711](https://zenodo.org/records/11058711), 2024. [dataset]
+[2] I. Rotaru, S. Geirnaert, T. Francart and A. Bertrand, "Audiovisual, Gaze-controlled Auditory Attention Decoding Dataset KU Leuven (AV-GC-AAD)", Zenodo, 2024, [doi.org/10.5281/zenodo.11058711](https://zenodo.org/records/11058711). [dataset]
